@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+settings.json
+history.json
+.env
+.env.*
+*.env
+bundled.keys
